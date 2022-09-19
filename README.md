@@ -1,3 +1,8 @@
+// Criar 5 vetores contendo 10 valores reais gerados aleatoriamente
+// Utilizar uma função recursiva para somar apenas os elementos pares de cada vetor
+// Retornar maior elemento do item 2
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #define N 10
